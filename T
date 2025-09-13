@@ -1,0 +1,30 @@
+Политика конфиденциальности / Privacy Policy
+Русский
+Этот Telegram-бот «Поиск фильмов» уважает конфиденциальность пользователей и обрабатывает только минимально необходимую информацию для корректной работы.
+1. Сбор информации
+Бот не собирает и не хранит персональные данные пользователей. Обрабатываются только:
+	•	идентификатор пользователя (User ID), предоставляемый Telegram;
+	•	текстовые запросы, которые отправляет пользователь.
+2. Использование информации
+Собранные данные используются исключительно для ответа на запросы пользователя и улучшения работы бота.
+3. Передача данных третьим лицам
+Данные пользователей не передаются и не продаются третьим лицам.
+4. Хранение и удаление данных
+Бот не хранит долгосрочно сообщения пользователей. По запросу пользователя его данные могут быть удалены. Для этого отправьте команду /delete или свяжитесь с администратором.
+5. Контакты
+По вопросам конфиденциальности: fsafarmahmadov@bk.ru
+English
+This Telegram bot “Movie Search” respects the privacy of its users and processes only the minimum amount of information necessary for proper functioning.
+1. Information Collection
+The bot does not collect or store any personal data of users. Only the following information is processed:
+	•	User ID provided by Telegram;
+	•	Text queries sent by the user.
+2. Use of Information
+The collected data is used exclusively for responding to user requests and improving the bot's functionality.
+3. Data Sharing
+User data is not shared or sold to any third parties.
+4. Data Storage and Deletion
+The bot does not permanently store user messages. Upon user request, data can be deleted. To do so, send the /delete command or contact the administrator.
+5. Contact
+For questions about data privacy: fsafarmahmadov@bk.ru
+Version: 1.0 — Last updated: 13 September 2025
